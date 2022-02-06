@@ -1,0 +1,12 @@
+body {
+  background: #242424;
+  color: white;
+  margin: 0;
+  padding: 1rem;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    'Segoe UI Symbol', 'Noto Color Emoji';
+  display: grid;
+  place-items: center;
+  font-size: 32px;
+}
