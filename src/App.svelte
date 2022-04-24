@@ -104,7 +104,7 @@
     {greenKeys} />
 </main>
 <footer>
-  <p>Сайт сделал RonanRU</p>
+  <p>Сайт сделал Матвей Рябчиков</p>
   <a href="https://github.com/ronanru/wordle-ru" target="_blank" rel="noopener noreferrer">
     Посмотреть код сайта на GitHub
   </a>
